@@ -27,4 +27,4 @@ A classic **Snake Game** implemented in **MIPS Assembly**, designed to run on th
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MIPS-Snake-Game.git
+   git clone https://github.com/Sidra-009/MIPS-Snake-Game.git
